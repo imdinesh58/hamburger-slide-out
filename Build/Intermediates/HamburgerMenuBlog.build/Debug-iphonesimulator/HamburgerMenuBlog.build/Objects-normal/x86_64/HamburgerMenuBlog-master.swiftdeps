@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "bbfcd27c22c9cd05ab38f04f1d08b85f"
+build_time: [1517398072, 304028000]
+inputs:
+  "/Users/apple-1/Downloads/Hamburger-Menu-Blog-master/HamburgerMenuBlog/ViewController.swift": [1500035272, 0]
+  "/Users/apple-1/Downloads/Hamburger-Menu-Blog-master/HamburgerMenuBlog/AppDelegate.swift": [1500035272, 0]
